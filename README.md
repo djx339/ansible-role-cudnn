@@ -7,7 +7,7 @@ Requirements
 ------------
 
 - [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) installed.
-- Download [cuDNN](https://developer.nvidia.com/cudnn) to `[files](files)` folder with your NVIDIA Developer account.
+- Download [cuDNN](https://developer.nvidia.com/cudnn) to [`files`](files) folder with your NVIDIA Developer account.
 
 Role Variables
 --------------
